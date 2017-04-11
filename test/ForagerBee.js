@@ -45,3 +45,4 @@ describe('ForagerBee class functionality', () => {
   });
 
 });
+ 

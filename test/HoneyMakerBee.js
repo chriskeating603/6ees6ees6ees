@@ -51,3 +51,4 @@ describe('HoneyMakerBee class functionality', () => {
   });
 
 });
+ 

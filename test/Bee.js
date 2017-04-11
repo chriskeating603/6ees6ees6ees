@@ -30,3 +30,4 @@ describe('Bee class functionality', () => {
   });
 
 });
+  
